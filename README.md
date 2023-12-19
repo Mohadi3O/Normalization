@@ -14,4 +14,7 @@ of truth). ´
 tion of clauses. A clause being a disjunction of literals. ´
 5. Carry out the simplification of the standardized formula.
 6. now i used python for programming it and i used pyqt5/6 and pyside6 for create a GUI for Easily to use
-7. and i use binarytree lib for represent the tree in the output 
+7. and i use binarytree lib for represent the tree in the output
+
+## ***you just need to running this command in CMD***
+pip install Pyside6 Pyqt6 Pyqt5 numpy pandas BinaryTree scipy TK
